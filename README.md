@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aakashhkumaar/aakashhkumaar/blob/main/949de28375a033c6b188de8077d9108d.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">Frontend Developer</h3>
