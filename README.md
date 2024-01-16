@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **aakashhkumaar7@gmail.com**
+- 📫Reach me at **aakashhkumaar7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aakashhkumaar/](https://www.linkedin.com/in/aakashhkumaar/)
+- 📄 Know more about me [https://www.linkedin.com/in/aakashhkumaar/](https://www.linkedin.com/in/aakashhkumaar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
